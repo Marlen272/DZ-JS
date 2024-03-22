@@ -1,0 +1,29 @@
+* {| padding:0;
+    box-sizing: border-box;
+
+
+}
+ body {|
+ bbackground: #600;
+     padding: 20px;
+ }
+ main {
+
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+
+ }
+ h2 {
+     color: darkorange;
+ }
+ input,
+ textarea{
+     width: 100%;
+     padding: 20px;
+
+ }
+ button {
+     padding: 10px;
+
+ }
